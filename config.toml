@@ -1,0 +1,11 @@
+[theme]
+# 沉稳的蓝灰主题色（像青花瓷或水墨）
+primaryColor = "#4A6572"
+# 极其护眼的米白色背景（像宣纸）
+backgroundColor = "#F9F9F9"
+# 侧边栏的浅灰底色
+secondaryBackgroundColor = "#F1F3F4"
+# 柔和的深灰色文字（不刺眼）
+textColor = "#333333"
+# 儒雅的衬线字体（宋体/明朝体的感觉）
+font = "serif"
